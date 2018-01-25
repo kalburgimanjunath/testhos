@@ -19,10 +19,10 @@ linkedin: kalburgimanjunath
 email: manjunathkalburgi@gmail.com  
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: manjunathkalburgi # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-113085000-1
 
 # Build Settings
 markdown: kramdown
