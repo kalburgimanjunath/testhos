@@ -1,8 +1,6 @@
-title: Hello, world! I'm Manjunath Kalburgi
+title: Honeywell Maxpro Cloud
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Honeywell MAXPRO Cloud International.
 permalink: ':title/'
 baseurl: "/mypage" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,16 +8,16 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Manjunath Kalburgi # add your name
-author-img: manju.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-twitter: kalburgimanjunath
-facebook: kalburgimanjunath
-github: kalburgimanjunath
-linkedin: kalburgimanjunath
+author-img: Maxprocloud.jpg # add your photo
+about-author: Designed for small-to-medium-sized (SMB) businesses, MAXPRO Cloud improves customer performance, ensures efficient safety and security, minimizes loss of inventory in retail environments, reduces IT infrastructure costs, and streamlines operations by empowering owners to make informed, real-time decisions – at any time, from anywhere. # add description
+twitter: maxprocloud
+facebook: maxprocloud
+github: maxprocloud
+linkedin: maxprocloud
 email: manjunathkalburgi@gmail.com  
 
 # Disqus
-discus-identifier: manjunathkalburgi # add your discus identifier
+discus-identifier: maxprocloud # add your discus identifier
 
 # Tracker
 analytics: UA-113085000-1
