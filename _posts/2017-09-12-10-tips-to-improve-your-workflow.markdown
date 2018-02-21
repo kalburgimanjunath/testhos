@@ -2,9 +2,7 @@
 layout: post
 title: A Commercial Office Security System You Can Count On
 date: '2017-09-12 00:00:00 +0300'
-description: >-
-  You’ll find this post in your `_posts` directory. Go ahead and edit it and
-  re-build the site to see your changes.
+description: A Commercial Office Security System You Can Count On
 img: workflow.jpg
 tags:
   - Productivity
