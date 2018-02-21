@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEMO Topic - QA UI TEST
+title: Why MAXPRO Cloud?
 date: '2017-09-12 00:00:00 +0300'
 description: >-
   You’ll find this post in your `_posts` directory. Go ahead and edit it and
