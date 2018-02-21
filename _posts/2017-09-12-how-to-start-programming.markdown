@@ -2,9 +2,7 @@
 layout: post
 title: 'About MAXPRO Cloud: Working Smarter'
 date: '2017-09-12 00:00:00 +0300'
-description: >-
-  You’ll find this post in your `_posts` directory. Go ahead and edit it and
-  re-build the site to see your changes.
+description: 'About MAXPRO Cloud: Working Smarter'
 img: how-to-start.jpg
 tags:
   - Programming
