@@ -1,11 +1,29 @@
 ---
 layout: post
-title: 10 Tips To Improve Your Workflow
-date: 2017-09-12 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: workflow.jpg # Add image post (optional)
-tags: [Productivity, Workflow] # add tag
+title: A Commercial Office Security System You Can Count On
+date: '2017-09-12 00:00:00 +0300'
+description: >-
+  You’ll find this post in your `_posts` directory. Go ahead and edit it and
+  re-build the site to see your changes.
+img: workflow.jpg
+tags:
+  - Productivity
+  - Workflow
+published: true
 ---
+
+Save hundreds of hours annually by eliminating drive times from one location to the next to unlock doors and oversee security systems at various office sites. Manage your business in the palm of your hand, using your mobile device to open a door or lock down a facility with a single button click. MAXPRO Cloud makes it easy to prevent unauthorized access, ensure regulatory compliance and monitor people, property and assets.
+
+MAXPRO Cloud is an ideal solution for, but not limited to, small-to-medium-sized (SMB) businesses.
+SMB Example:
+
+Multi-location offices
+Owner occupied/property management
+3,000-10,000 sq. ft.
+4-6 doors or access points
+6-8 cameras
+10-500 employees
+
 
 Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe shoreditch. Prism chambray heirloom, drinking vinegar portland paleo slow-carb. Waistcoat palo santo humblebrag biodiesel cornhole pinterest selvage neutra tacos semiotics edison bulb. Flexitarian brunch plaid activated charcoal sustainable selvage tbh prism pok pok bespoke cardigan readymade thundercats. Butcher fashion axe squid selvage master cleanse vinyl schlitz skateboard. Lomo shaman man bun keffiyeh asymmetrical listicle. Kickstarter trust fund fanny pack post-ironic wayfarers swag kitsch. Shaman pug kale chips meh squid.
 
